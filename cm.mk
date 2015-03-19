@@ -8,3 +8,4 @@ $(call inherit-product, vendor/cm/config/nfc_enhanced.mk)
 
 PRODUCT_RELEASE_NAME := MOTO X
 PRODUCT_NAME := cm_ghost
+NX_MODEL_NAME := Moto X (2013)
