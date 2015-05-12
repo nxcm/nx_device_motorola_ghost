@@ -12,9 +12,14 @@
     "revision":   "cm-12.1"
   },
   {
+    "remote":     "bitbucket",
+    "repository": "nxcm/nx_kernel_motorola_ghost",
+    "target_path": "kernel/motorola/ghost"
+  },
+  {
     "remote":      "github",
-    "repository": "CyanogenMod/android_kernel_motorola_ghost",
-    "target_path": "kernel/motorola/ghost",
+    "repository":  "TheMuppets/proprietary_vendor_motorola",
+    "target_path": "vendor/motorola",
     "revision":   "cm-12.1"
   }
 ]
